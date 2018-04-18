@@ -1,0 +1,12 @@
+{
+    "full_name": "Bob Moaner",
+    "email": "bob@example.com",
+    "bitbucket_username":"b-moaner",
+    "slug": "XYZ",
+    "formula": "{{cookiecutter.slug}}-formula",
+    "description": "XYZ saltstack formula",
+    "release": "1",
+    "os": ["CentOS"],
+    "os_family": ["RedHat"],
+    "version": "0.0.1"
+}

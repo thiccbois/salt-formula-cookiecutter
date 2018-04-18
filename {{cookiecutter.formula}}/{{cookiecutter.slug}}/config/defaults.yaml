@@ -1,0 +1,5 @@
+{{ cookiecutter.slug }}:
+  your: mother
+  is:
+  - fat
+  - old 
