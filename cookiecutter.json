@@ -5,5 +5,8 @@
     "slug": "application_name_lowercase_underscore_only",
     "formula": "{{cookiecutter.slug}}-formula",
     "description": "XYZ saltstack formula",
+    "os": ["CentOS"],
+    "os_family": ["RedHat"],
+    "release": "1",
     "version": "0.0.1"
 }
